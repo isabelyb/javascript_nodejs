@@ -1,0 +1,1 @@
+// definir todo lo que sucede creando funciones necesarias
